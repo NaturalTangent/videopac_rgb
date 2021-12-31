@@ -17,3 +17,7 @@ The schematic is copied from https://gamesx.com/wiki/doku.php?id=av:g7000_av
 The PCB measures 80mm X 40.6mm.
 
 ![PCB](images/videopac_rgb_pcb.png "PCB")
+
+## BOM
+
+[videopac_rgb_bom.csv](videopac_rgb_bom.csv "BOM")
